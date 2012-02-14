@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/gaurav/.oh-my-zsh/plugins'
+let g:netrw_dirhist_2='/home/gaurav/.oh-my-zsh'
+let g:netrw_dirhist_3='/home/gaurav/.oh-my-zsh/tools'
+let g:netrw_dirhist_4='/home/gaurav/.gnupg/private-keys-v1.d'
+let g:netrw_dirhist_5='/home/gaurav/git/puppet/modules/network/files/obox/rde'
+let g:netrw_dirhist_6='/home/gaurav/git/puppet/modules/postgresql/files'
+let g:netrw_dirhist_7='/home/gaurav/git/puppet/modules/postgresql/files/mdns'
+let g:netrw_dirhist_8='/home/gaurav/git/puppet/modules/postgresql/files/mdns/common'
