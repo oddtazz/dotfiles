@@ -1,2 +1,4 @@
 My dot config files.
 Rightnow i dont have much to show. But after a while i will make both my dot files a bit more modular.
+
+The Solarized  .colorscheme files go in  ~/.kde/share/apps/konsole/ folder
