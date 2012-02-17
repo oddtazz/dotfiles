@@ -71,6 +71,7 @@ alias svn-testing='ssh root@172.16.142.116'
 alias bll-staging='ssh root@172.16.142.139'
 alias mdns-staging='ssh root@172.16.143.33'
 alias sshg='ssh -l gaurav.c'
+alias pup='cd ~/git/puppet/' 
 
 #Debian Packaging.
 DEBEMAIL=gaurav.p.chaturvedi@gmail.com
